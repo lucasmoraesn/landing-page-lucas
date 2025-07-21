@@ -31,3 +31,7 @@ Esta é uma landing page moderna e responsiva desenvolvida em React + Vite + Tai
 <img src="./preview.png" width="600" alt="Preview da Landing Page" />
 
 ---
+
+
+
+
