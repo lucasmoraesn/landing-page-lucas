@@ -169,7 +169,7 @@ function App() {
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight mb-6">
               Eleve seu negócio digital a outro nível com um{' '}
               <span className="text-cyan-400 animate-glow">
-                Engenheiro de Software de qualidade!
+                Desenvolvedor de qualidade!
               </span>
             </h1>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mt-12">

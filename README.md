@@ -1,6 +1,6 @@
 # Landing Page - Lucas Moraes
 
-🚀 **Eleve seu negócio digital a outro nível com um Engenheiro de Software de qualidade!**
+🚀 **Eleve seu negócio digital a outro nível com um Desenvolvedor qualidade!**
 
 Esta é uma landing page moderna e responsiva desenvolvida em React + Vite + Tailwind CSS. Ideal para apresentação profissional de portfólio, serviços ou produtos digitais.
 
