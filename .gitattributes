@@ -1,1 +1,27 @@
-* text=auto
+# Normaliza quebras de linha para LF (Unix-style), que é o padrão em projetos modernos
+* text=auto eol=lf
+
+# Arquivos de código como JS, TS, HTML, CSS, etc.
+*.js    text eol=lf
+*.jsx   text eol=lf
+*.ts    text eol=lf
+*.tsx   text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf
+*.env   text eol=lf
+
+# Arquivos binários (nunca devem ser alterados por conversão de texto)
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.svg   binary
+*.mp4   binary
+*.ttf   binary
+*.woff  binary
+*.woff2 binary
+*.eot   binary
