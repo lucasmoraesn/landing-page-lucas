@@ -31,16 +31,3 @@ Esta é uma landing page moderna e responsiva desenvolvida em React + Vite + Tai
 <img src="./preview.png" width="600" alt="Preview da Landing Page" />
 
 ---
-
-## 📦 Instalação e uso local
-
-```bash
-# Clone o repositório
-git clone https://github.com/lucasmoraesn/landing-page-lucas.git
-cd landing-page-lucas
-
-# Instale as dependências
-npm install
-
-# Rode em modo desenvolvimento
-npm run dev
