@@ -206,7 +206,7 @@ function App() {
           <div className="grid md:grid-cols-2 gap-12 items-start">
             <div className="space-y-6 md:order-2">
               <p className="text-lg text-gray-300 leading-relaxed">
-                Sou formado em Engenharia de Software e atuo como desenvolvedor com foco em criar soluções digitais eficientes, modernas e escaláveis. Ao longo da minha carreira, desenvolvi projetos utilizando tecnologias como HTML, CSS, JavaScript, Node.js, SQL, Laravel, Tailwind e Bootstrap, sempre com atenção à performance, usabilidade e qualidade de código.
+                Sou formado em Análise e Desenvolvimento de Sistemas e atuo com foco em criar soluções digitais eficientes, modernas e escaláveis. Ao longo da minha carreira, desenvolvi projetos utilizando tecnologias como HTML, CSS, JavaScript, Node.js, SQL, Laravel, Tailwind e Bootstrap, sempre com atenção à performance, usabilidade e qualidade de código.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed">
                 Tenho experiência tanto no desenvolvimento de interfaces intuitivas quanto na construção de sistemas robustos e seguros para empresas de diferentes portes. Minha abordagem é colaborativa e orientada a resultados — busco entender a real necessidade do cliente ou do projeto para entregar soluções que realmente fazem a diferença.
